@@ -36,7 +36,8 @@ Model yang dibangun mampu mengklasifikasikan teks dengan akurasi **~88%** menggu
 
 ## 🚀 Instalasi & Penggunaan
 ## ✅ Langkah 1 – Import Library
-![1](1.PNG)
+<img width="848" height="239" alt="1" src="https://github.com/user-attachments/assets/06a5673a-80ad-4a74-b639-cadec081d29c" />
+
 ## Load Dataset & batasi 50 kolom pertama
 ![2](2.PNG)
 ---
